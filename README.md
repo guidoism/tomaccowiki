@@ -9,6 +9,7 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - I want the be able view and edit on mobile
 - I want the pages to be fast
 - I want to be able to optionally edit with a rich text interface
+- I want to be able to run a copy of it locally
 
 ## Assumptions
 
