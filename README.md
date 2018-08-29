@@ -28,3 +28,7 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - Concentrate on editing since that's going to be the hard part
 - Find a javascript based markdown or rich text editor
 - Have it read from a git repo in the javascript, update it, and send the blob somewhere
+
+## Research
+
+- [MediumEditor](http://yabwe.github.io/medium-editor/) - Rich text, looks like you are editing the webpage, 28k
