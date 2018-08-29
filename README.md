@@ -20,3 +20,4 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - Markdown is the obvious choice for markup language (which Markdown?)
 - Will probably need to run some sort of server component for updates but maybe we can make use of AWS Lambda
 - Making use of github to serve and store wiki would also make a lot of sense, but no control over cache invalidations
+- It might make sense to use time limited urls to allow client to update s3 directly
