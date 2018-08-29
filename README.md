@@ -36,4 +36,5 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - [bootstrap-wysiwyg](http://mindmup.github.io/bootstrap-wysiwyg/) - 5k, edit in seperate div
 - [Trix](https://trix-editor.org)
 - [Squire](http://neilj.github.io/Squire/)
+- [Trumbowyg](https://alex-d.github.io/Trumbowyg/)
 
