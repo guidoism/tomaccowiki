@@ -19,3 +19,4 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - Git is the obvious choice for datastore
 - Markdown is the obvious choice for markup language (which Markdown?)
 - Will probably need to run some sort of server component for updates but maybe we can make use of AWS Lambda
+- Making use of github to serve and store wiki would also make a lot of sense, but no control over cache invalidations
