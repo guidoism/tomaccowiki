@@ -33,3 +33,4 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 ## Research
 
 - [MediumEditor](http://yabwe.github.io/medium-editor/) - Rich text, looks like you are editing the webpage, 28k
+- [bootstrap-wysiwyg](http://mindmup.github.io/bootstrap-wysiwyg/) - 5k, edit in seperate div
