@@ -18,4 +18,4 @@ The Tomacco Wiki Software - Read optimized wiki, simple to run
 - S3 (I think) only has atomicity at the level of objects, which means we will need to come up with a mechanism to catch collisions
 - Git is the obvious choice for datastore
 - Markdown is the obvious choice for markup language (which Markdown?)
-- Will probably need to run some sort of server component but maybe we can make use of AWS Lambda
+- Will probably need to run some sort of server component for updates but maybe we can make use of AWS Lambda
